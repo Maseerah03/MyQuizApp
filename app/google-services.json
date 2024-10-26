@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "116507446315",
+    "firebase_url": "https://quiz-admin-7607a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quiz-admin-7607a",
+    "storage_bucket": "quiz-admin-7607a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116507446315:android:1973db95f138245dec2e6e",
+        "android_client_info": {
+          "package_name": "com.example.quizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIjRF-IJrCzBVFvw8dUi818PJ7O7xv0g4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116507446315:android:732fc04a8de78b46ec2e6e",
+        "android_client_info": {
+          "package_name": "com.example.quizappadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIjRF-IJrCzBVFvw8dUi818PJ7O7xv0g4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
